@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"battlerName":"Paripi","characterIndex":0,"characterName":"Paripi","classId":1,"equips":[2,2,4,3,200],"faceIndex":0,"faceName":"paripi","traits":[],"initialLevel":1,"maxLevel":50,"name":"パリピ","nickname":"ゆうしゃ","note":"","profile":"すごいよ！"},
+{"id":2,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":2,"equips":[59,0,32,31,4],"faceIndex":0,"faceName":"Marsha","traits":[],"initialLevel":9,"maxLevel":50,"name":"パリ美","nickname":"おてんば魔導師","note":"","profile":"かわいい、ぺろぺろしたい。"},
+{"id":3,"battlerName":"Rod","characterIndex":0,"characterName":"Rod","classId":3,"equips":[83,0,51,50,4],"faceIndex":0,"faceName":"Rod","traits":[],"initialLevel":11,"maxLevel":50,"name":"ロドリゲス","nickname":"純白の魔導師","note":"","profile":"魔法が得意なんだね！"},
+{"id":4,"battlerName":"masa","characterIndex":0,"characterName":"masa","classId":4,"equips":[42,67,69,68,4],"faceIndex":0,"faceName":"masa1","traits":[],"initialLevel":15,"maxLevel":50,"name":"まさし","nickname":"すごい戦士","note":"","profile":"地元じゃ負け知らずだ！"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"soldier_sv","characterIndex":7,"characterName":"People3","classId":1,"equips":[2,2,4,3,200],"faceIndex":7,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":50,"name":"親切な兵士","nickname":"兵士","note":"","profile":"すごいよ！"},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ねこ","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"おにぎり","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"社畜","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"プレイヤー","nickname":"","note":"","profile":""}
+]
